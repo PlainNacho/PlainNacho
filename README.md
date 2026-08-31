@@ -1,7 +1,9 @@
 # About Me
-
-- 🌱 I’m currently learning to use GitHub
-- 🔭 I’m currently working on work stuff
+BSc(Electronics)
+- Keeper of the Keys to Intel Range embedded Controllers. STM8, STM32, Coreconnect
+- Mostly C but some HTML, Unitronics
+- 🔭 I’m currently working on keeping stuff alive and battling hardware obsolescence with new designs
+- Working on the next phase to bring it all together
 
   
 <!--
